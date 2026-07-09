@@ -4,9 +4,9 @@
 
 This volume explores how quantitative analysis supports business operations and commercial decision-making in retail.
 
-It is essential to understand how a business creates value. Through my experience in luxury retail merchandising and demand planning, I developed a structured approach to forecasting demand, allocating resources, measuring performance and supporting operational decisions.
+It is essential to understand how a business creates value. Through my experience in premium retail merchandising and demand planning, I developed a structured approach to forecasting demand, allocating resources, measuring performance and supporting operational decisions.
 
-Rather than introducing financial concepts directly, this volume focuses on the operational foundations behind business performance. Many analytical methods presented here—including forecasting, budgeting, variance analysis and scenario planning—are transferable across industries and later become the basis for corporate finance, real estate and investment analysis.
+This volume focuses on the operational foundations behind business performance. Many analytical methods presented here—including forecasting, budgeting, variance analysis and scenario planning—are transferable across industries and later become the basis for corporate finance, real estate and investment analysis.
 
 Each project is built around a real business problem, demonstrating how quantitative thinking, mathematical reasoning and practical tools can improve commercial decisions.
 
@@ -28,17 +28,7 @@ Each project is built around a real business problem, demonstrating how quantita
 
 ## Professional Context
 
-Industry
-
-Luxury Retail
-
-Companies
-
-Tiffany & Co.
-
-Hermès
-
-Roles
+Premium Retail
 
 Merchandising
 
@@ -62,7 +52,7 @@ Inventory Analytics
 
 Variance Analysis
 
-Driver Analysis
+Driver-tree Analysis
 
 Scenario Planning
 
@@ -100,9 +90,9 @@ Power Query
 
 SQL
 
-Python (ongoing)
+Python
 
-Power BI (ongoing)
+Power BI
 
 ---
 
@@ -114,12 +104,25 @@ Power BI (ongoing)
 
 3. Open-to-Buy Planning
 
-4. Retail Budget Planning
+4. Inventory Buy Plan Simulator
 
 5. Sales Variance Analysis
 
-6. Inventory Productivity Analytics
+6. Merchandise Productivity Analytics
 
-7. Promotion & Markdown Optimisation
+7. Slow-Mover & Stock Risk Analysis
 
-8. Retail KPI Dashboard
+8. Promotion & Markdown Optimisation
+
+9. Retail Resource Allocation
+
+8. Retail KPI Deck & Decision Memo
+
+
+
+
+## License
+
+Code is licensed under the MIT License.  
+Documentation, analysis, charts, and business interpretation are governed by the Portfolio License.  
+See `/LICENSE` and `/PORTFOLIO_LICENSE.md`.
