@@ -4,13 +4,11 @@
 
 ## Overview
 
-This repository documents my journey from understanding how business operations generate cash flows, to how assets are managed and valued, how firms allocate capital, and ultimately how cash flows are structured, financed and monitored in capital markets. 
+This repository documents my journey from understanding how business operations generate cash flows, to how assets are managed and valued, how firms allocate capital, and ultimately how cash flows are structured, financed and monitored in capital markets.
 
-It consolidates my quantitative background in Mathematics & Statistics, professional experience in retail and commercial real estate analytics, and ongoing development in financial modelling, real assets, credit and structured finance.
+It consolidates my quantitative background in Maths & Stats, professional experience in retail and commercial real estate analytics, and ongoing development in financial modelling, real assets, credit and structured finance.
 
-It is not organised around industries, but around a progressively more abstract understanding of the same analytical object:
-
-**Business → Assets → Capital → Risk → Structured Cash Flows**
+The portfolio is organised around analytical progression rather than career chronology, and around a progressively more abstract understanding of the same analytical object: **cash flow**.
 
 
 ## Portfolio Thesis
@@ -19,7 +17,12 @@ Every business tells a different story, but every balance sheet ultimately tells
 
 > **How do business activities generate cash flows, and how can those cash flows be forecast, measured, allocated, analysed, valued and ultimately structured?**
 
+Each volume in this repository builds on the previous one, moving from business operations to asset management, then to corporate finance, and finally to structured finance.
+
+**Business → Assets → Capital → Risk → Structured Cash Flows**
+
 The long-term objective is to develop a unified analytical framework that connects **Applied Mathematics**, **Business Analytics**, **Corporate Finance** and **Structured Finance** through the common language of **cash flow**.
+
 
 ---
 
